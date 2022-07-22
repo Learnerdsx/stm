@@ -7,3 +7,4 @@ Git is quick and simple.
 what can i do ?
 I will fix a bug.
 hhh，I will try to pull from github.com!
+I have konwn how to sync two branch,hhh.
